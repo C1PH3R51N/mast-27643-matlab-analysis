@@ -1,6 +1,6 @@
 # MAST Shot 27643 — MATLAB Diagnostic Data Analysis
 
-## Project authorship
+## Project Authorship
 
 **Independent analysis and MATLAB implementation by Liam Birch.**
 
