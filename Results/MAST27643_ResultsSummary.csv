@@ -1,0 +1,18 @@
+Metric,Value
+Aligned observations,2501
+Plasma-Neutron correlation,0.655505778284551
+NBI-Neutron correlation,0.419629147804691
+Measured peak neutron rate,106096816750877
+Measured peak time,0.3496
+Phase 1 mean neutron rate,44338347256749.1
+Phase 2 mean neutron rate,66155440326650.6
+Measured phase increase percent,49.205923133683
+MC mean phase increase percent,49.2163023305816
+MC phase increase lower 95 percent,48.0936553881945
+MC phase increase upper 95 percent,50.3139536836631
+MC mean peak time,0.346554979999999
+MC peak time lower 95,0.3254
+MC peak time upper 95,0.4002
+MC mean simulated maximum,120891633146968
+MC maximum lower 95,114455463170052
+MC maximum upper 95,130140227512574
