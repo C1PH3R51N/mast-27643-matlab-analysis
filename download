@@ -1,0 +1,26 @@
+# UKAEA/raw experimental data - do not commit
+*.nc
+*.h5
+*.hdf5
+/data/raw/
+
+# Full derived datasets / large analysis workspaces - do not commit by default
+MAST27643_CleanedData.csv
+*.mat
+
+# MATLAB working/output files
+*.asv
+*.autosave
+*.m~
+*.slxc
+slprj/
+codegen/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary exports
+*.tmp
+~$*
