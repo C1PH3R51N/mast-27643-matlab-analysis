@@ -90,8 +90,6 @@ mast-27643-matlab-analysis/
 ├── src/          MATLAB scripts added by the author
 ├── data/         source-data instructions only; no UKAEA data redistributed
 ├── results/      summary-level outputs only
-├── figures/      author-generated analysis figures/screenshots
-└── docs/         author's portfolio report (to be added)
 ```
 
 ## MATLAB scripts
